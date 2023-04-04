@@ -1,0 +1,7 @@
+// Function to print a name
+// @param name: The name to be printed
+public void PrintName(string name)
+{
+    // Print the name
+    Console.WriteLine(name);
+}
